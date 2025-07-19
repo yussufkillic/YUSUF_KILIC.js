@@ -1,1 +1,1 @@
-# YUSUF_KILIC.js
+# Gönderilen task'te ürünlere tıklandığında, ürün sayfasının açılması isteniyor fakat 8 ürün içinden sadece ilkinin url adresi doğru veya ebebek üstünde bu ürünlere erişim durumu kısıtlandı. Bu yüzden sadece ilk ürüne tıklanınca ürün sayfasına atılıyor, diğer ürünlere tıklanınca 'Not Found' sayfasına atıyor.
